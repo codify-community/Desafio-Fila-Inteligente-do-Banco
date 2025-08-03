@@ -106,7 +106,6 @@ Para sair basta um `SAIR` implementado aí no seu código:
 * Seguir as **regras da fila** descritas acima
 
 ### ⭐ Vai ganhar pontos extras se:
-- O projeto estiver no **GitHub**
 - Ter uma Arquitetura **bem estruturado** em **arquivos separados**
 - **Não** houver código comentado que não esteja sendo usado
 - Houver um **Dockerfile** para facilitar a execução local
@@ -117,6 +116,7 @@ Para sair basta um `SAIR` implementado aí no seu código:
 - Usar **qualquer forma de loop proibido** como descrito acima
 - **Apagar ou recriar** o repositório depois de começar
 - **Entregar e continuar fazendo commits** depois do envio
+- O projeto apresentar indícios de uso de **IA**
 
 ## 🏆 Premiação
 
@@ -126,13 +126,8 @@ Resaltando que o vencedor é: quem tiver **maior pontuação final**
 
 ## ✅ Como Participar
 
-Aqui nessa thread,
-- comentar **com tudo maiusculo** a seguinte palavra
-`DESAFIO ACEITO` marcando o DevCurumin
-- Assim que comentar, já começar algum repositório Github do projeto, com um README.md com alguma frase de DESAFIO ACEITO ou algo assim (exemplo: [Clique aqui pra ver](https://github.com/thiagochirana/desafio-fila-inteligente)) e marca o DevCurumin. É falar que vai começar o desafio e rapidamente já criar um repo no github com um commit pelo menos
-- NÃO PODE APAGAR O SEU REPOSITÓRIO OU COMEÇAR OUTRO senão é desclassificação, leia as regras
-
-e para entregar, mande ele aqui me marcando também com o @ com a frase `DESAFIO ENTREGUE`
+1. Crie um repositório no **Github**
+2. Adicione a tag `codify` ao repositório **Sem a tag não conseguiremos encontrar seu projeto!**
 
 ## 🕒 Prazo para Entrega
 
@@ -141,23 +136,30 @@ e para entregar, mande ele aqui me marcando também com o @ com a frase `DESAFIO
 
 📢 **Resultado: 10 de Agosto de 2025**
 
-### FAQ
+## ❓ FAQ
+
 <details open>
- <summary>Quem pode participar?</summary>
- TODOS! **PORÉM QUEM TEM MENOS DE 3 MESES DE PROFISSÃO (NA ÁREA DE TI) OU NUNCA INGRESSOU NA ÁREA TEM PESO MAIOR NA PONTUAÇÃO**
+ <summary><strong>Como participar?</strong></summary>
+
+ Crie um repositório no **Github** e adicione a tag `codify` ao repositório **Sem a tag não conseguiremos encontrar seu projeto!**
 </details>
 
 <details open>
- <summary>Qual tecnologia usar?</summary>
- Qualquer uma é válido! O importante é funcionar!
+ <summary><strong>Quem pode participar?</strong></summary>
+
+ **TODOS** podem participar!
+ Mas quem tem **menos de 3 meses de experiência na área de TI** ou **ainda não ingressou profissionalmente**, terá **um peso maior na pontuação final**.
 </details>
 
 <details open>
- <summary>Como participar?</summary>
- Me marca aqui com @ e coloca a frase `DESAFIO ACEITO` e já começa o repositório no github, manda o link dele aqui e me marca também, Um pouco mais acima tem detalhes
+ <summary><strong>Qual tecnologia usar?</strong></summary>
+
+ Use **a linguagem ou stack que preferir!**
+ O importante é que o sistema funcione com todos os comandos obrigatórios implementados corretamente.
 </details>
 
 <details open>
- <summary>Quais são as tabelas de pontos?</summary>
- Isso será revelado ao final da competição
+ <summary><strong>Quais são as tabelas de pontos?</strong></summary>
+
+ Serão divulgadas **ao final da competição**, junto com o resultado.
 </details>
