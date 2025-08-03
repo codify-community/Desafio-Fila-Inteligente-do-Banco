@@ -127,7 +127,7 @@ Resaltando que o vencedor é: quem tiver **maior pontuação final**
 ## ✅ Como Participar
 
 1. Crie um repositório no **Github**
-2. Adicione a tag `codify` ao repositório **Sem a tag não conseguiremos encontrar seu projeto!**
+2. Adicione a tag/tópico `codify` ao repositório **Sem a tag não conseguiremos encontrar seu projeto!**
 
 ## 🕒 Prazo para Entrega
 
@@ -141,7 +141,7 @@ Resaltando que o vencedor é: quem tiver **maior pontuação final**
 <details open>
  <summary><strong>Como participar?</strong></summary>
 
- Crie um repositório no **Github** e adicione a tag `codify` ao repositório **Sem a tag não conseguiremos encontrar seu projeto!**
+ Crie um repositório no **Github** e adicione a tag/tópico `codify` ao repositório **Sem a tag não conseguiremos encontrar seu projeto!**
 </details>
 
 <details open>
