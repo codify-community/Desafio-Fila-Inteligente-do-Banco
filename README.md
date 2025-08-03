@@ -126,22 +126,23 @@ Resaltando que o vencedor é: quem tiver **maior pontuação final**
 
 ## ✅ Como Participar
 
-1. Crie um repositório no **Github**
-2. Adicione a tag/tópico `codify` ao repositório **Sem a tag não conseguiremos encontrar seu projeto!**
+1. Crie um repositório no **GitHub** para o seu projeto.
+2. Adicione a tag (tópico) `codify` ao repositório.
+3. Quando terminar, envie o link do repositório através [deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSdBW-sBLiVrmJ2IocUZq8vDG19C0KKL_aBthguy7z0kqQrOIQ/viewform?usp=dialog).
 
 ## 🕒 Prazo para Entrega
 
-🗓️ **Sábado, 9 de Agosto de 2025**
+🗓️ **Sábado, 16 de Agosto de 2025**
 ⏰ **Até as 23:59 (horário de Brasília)**
 
-📢 **Resultado: 10 de Agosto de 2025**
+📢 **Resultado: 17 de Agosto de 2025**
 
 ## ❓ FAQ
 
 <details open>
  <summary><strong>Como participar?</strong></summary>
 
- Crie um repositório no **Github** e adicione a tag/tópico `codify` ao repositório **Sem a tag não conseguiremos encontrar seu projeto!**
+ Crie um repositório no **Github** e adicione a tag/tópico `codify` ao repositório. Quando o projeto estiver pronto envie através [deste formulário](https://docs.google.com/forms/d/e/1FAIpQLSdBW-sBLiVrmJ2IocUZq8vDG19C0KKL_aBthguy7z0kqQrOIQ/viewform?usp=dialog).
 </details>
 
 <details open>
