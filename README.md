@@ -6,7 +6,7 @@
 Mas esse banco tem um detalhe especial:
 Ele **respeita quem precisa de prioridade,** mas **não deixa ninguém esperando demais.**
 
-## 🔎 Detalhes 
+## 🔎 Detalhes
 ### 👩‍💻 Quem usa esse sistema?
 A **atendente do banco.**
 
@@ -96,10 +96,10 @@ Para sair basta um `SAIR` implementado aí no seu código
 #### ❌ NÃO PODE:
 - usar loops de repetiçao (while, do..while, for, each, times, etc etc etc) em nenhum momento no código!
 - usar libs ou ferramentas prontas para organização da fila (por exemplo usar `.sort()` ou `.organize()` nada disso!) Tem que fazer a organização na mão!
-- Usar entrada interativa via console
 
 #### 📌 E SEU CÓDIGO DEVE:
 - Apresentar TODOS os comandos funcionando corretamente
+- Usar entrada interativa via console
 - Atender os critérios acima para ser minimamente qualificado
 
 **ESSES SÃO OS REQUISITOS MÍNIMOS PARA A COMPETIÇÃO**
@@ -127,13 +127,13 @@ Para sair basta um `SAIR` implementado aí no seu código
 
 Aqui nessa thread,
 - comentar **com tudo maiusculo** a seguinte palavra
-`DESAFIO ACEITO`
-- Assim que comentar, já começar algum repositório Github do projeto, com um README.md com alguma frase de DESAFIO ACEITO ou algo assim (exemplo: [Clique aqui pra ver](https://github.com/thiagochirana/desafio-fila-inteligente)) e me marca com @. É falar que vai começar o desafio e rapidamente já criar um repo no github com um commit pelo menos
+`DESAFIO ACEITO` marcando o DevCurumin
+- Assim que comentar, já começar algum repositório Github do projeto, com um README.md com alguma frase de DESAFIO ACEITO ou algo assim (exemplo: [Clique aqui pra ver](https://github.com/thiagochirana/desafio-fila-inteligente)) e marca o DevCurumin. É falar que vai começar o desafio e rapidamente já criar um repo no github com um commit pelo menos
 - NÃO PODE APAGAR O SEU REPOSITÓRIO OU COMEÇAR OUTRO senão é desclassificação, leia as regras
 
 e para entregar, mande ele aqui me marcando também com o @ com a frase `DESAFIO ENTREGUE`
 
-### PRAZO PRA ENTREGA: 
+### PRAZO PRA ENTREGA:
 
 `SÁBADO, 9 DE AGOSTO DE 2025, ATÉ AS 23:59 DO HORÁRIO DE BRASILIA`
 
